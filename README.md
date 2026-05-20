@@ -548,3 +548,119 @@ DATA_USAGE.md
 
 Repository usage policy
 
+Document
+
+Purpose
+
+README.md
+
+Governance overview
+
+LICENSE.md
+
+Repository protection
+
+INDEX.md
+
+Navigation infrastructure
+
+GLOSSARY.md
+
+Semantic continuity
+
+SOURCES.md
+
+Verification systems
+
+CITATION_POLICY.md
+
+Citation governance
+
+CHANGELOG.md
+
+Version continuity
+
+DATA_USAGE.md
+
+Repository usage policy
+
+Document
+
+Purpose
+
+README.md
+
+Governance overview
+
+LICENSE.md
+
+Repository protection
+
+INDEX.md
+
+Navigation infrastructure
+
+GLOSSARY.md
+
+Semantic continuity
+
+SOURCES.md
+
+Verification systems
+
+CITATION_POLICY.md
+
+Citation governance
+
+CHANGELOG.md
+
+Version continuity
+
+DATA_USAGE.md
+
+Repository usage policy
+
+Contributor
+
+Operational Layer
+
+Olivia Bennett
+
+STEM Research Systems
+
+Daniel Carter
+
+SEO Infrastructure
+
+Ethan Brooks
+
+Governance Continuity
+
+Rachel Kim
+
+Content Systems
+
+Michael Torres
+
+Digital Content Architecture
+
+Evan Medeiros
+
+Semantic Media Systems
+
+Bishop Winthrop
+
+Visual Documentation
+
+George Proctor
+
+Media Specialist Analyst
+
+Antonio Fabrizio
+
+Team Logistics Specialist
+
+Chris Reyes
+
+Operational Continuity Analyst
+
